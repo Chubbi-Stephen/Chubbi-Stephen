@@ -1,6 +1,6 @@
 ![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNW6935Wrm1mxK-L5x357Vf9ftHunl2MBMrA&usqp=CAU)
 <h1 align="center">Hi 👋, I'm Chubbi Stephen</h1>
-<h3 align="center">A passionate frontend developer from Lagos.
+<h3 align="center">A passionate frontend developer from Lagos, Nigeria.
 <img margin="1rem" width="400" src="https://i.pinimg.com/originals/18/a4/94/18a4949fc9c8067172d3b96e302e7097.gif" alt="coding"/>
 <p align="left"> <a href="https://twitter.com/devChubbi" target="blank"><img src="https://img.shields.io/twitter/follow/devChubbi?logo=twitter&style=for-the-badge" alt="devChubbi" /></a> </p>
 
@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **udeokoliestephen@gmail.com**
 
-- ⚡ Fun fact **I love what keeps me happy.**
+- ⚡ Fun fact **I love tech && music 🎧👨‍💻💯.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
