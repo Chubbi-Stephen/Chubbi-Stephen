@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chubbi-stephen&label=Profile%20views&color=0e75b6&style=flat" alt="chubbi-stephen" /> </p>
 
-<p align="left"> <a href="https://twitter.com/devChubbi" target="blank"><img src="https://img.shields.io/twitter/follow/devChubbi?logo=twitter&style=for-the-badge" alt="devChubbi" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Chubbi_stephen" target="blank"><img src="https://img.shields.io/twitter/follow/Chubbi_stephen?logo=twitter&style=for-the-badge" alt="Chubbi Stephen" /></a> </p>
 
 - 🔭 I’m currently working on **React.js**
 
