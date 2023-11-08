@@ -7,19 +7,19 @@
 
 <p align="left"> <a href="https://twitter.com/Chubbi_stephen" target="blank"><img src="https://img.shields.io/twitter/follow/Chubbi_stephen?logo=twitter&style=for-the-badge" alt="Chubbi Stephen" /></a> </p>
 
-- 🔭 I’m currently working on **React.js**
+- 🔭 I’m currently working on **Next.js**
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **Next.js**
 
-- 👯 I’m looking to collaborate on **React projects and open-source type stuff.**
+- 👯 I’m looking to collaborate on **Useful projects and open-source type stuff.**
 
 - 👨‍💻 See some of my projects at [https://devchubbiportfolio.netlify.app/](https://devchubbiportfolio.netlify.app/)
 
-- 💬 Ask me about **JavaScript**
+- 💬 Ask me about anything **JavaScript**
 
 - 📫 How to reach me **udeokoliestephen@gmail.com**
 
-- ⚡ Fun fact **I love what keeps me happy.**
+- ⚡ Fun fact **I love what keeps me peaceful.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
